@@ -1,0 +1,42 @@
+name: Update Extraliga standings
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-standings:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: python -m pip install --disable-pip-version-check requests beautifulsoup4
+
+      - name: Download current Extraliga standings
+        run: python scripts/update_extraliga.py
+
+      - name: Commit changed standings
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add extraliga.json
+
+          if git diff --cached --quiet; then
+            echo "Standings unchanged."
+            exit 0
+          fi
+
+          git commit -m "Update Extraliga standings"
+          git push
