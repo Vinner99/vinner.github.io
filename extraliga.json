@@ -1,18 +1,18 @@
 {
   "competition": "Tipsport extraliga",
   "source": "https://www.czehockey.cz/souteze-muzi/tipsport-extraliga",
-  "updated_at": "2026-09-19T18:39:55+02:00",
+  "updated_at": "2026-09-19T20:56:33+02:00",
   "teams": [
     {
       "position": 1,
       "team": "HC Oceláři Třinec",
-      "games": 2,
-      "wins": 2,
+      "games": 3,
+      "wins": 3,
       "ot_wins": 0,
       "ot_losses": 0,
       "losses": 0,
-      "score": "8:5",
-      "points": 6
+      "score": "11:7",
+      "points": 9
     },
     {
       "position": 2,
@@ -71,17 +71,6 @@
     },
     {
       "position": 7,
-      "team": "HC ŠKODA PLZEŇ",
-      "games": 2,
-      "wins": 0,
-      "ot_wins": 1,
-      "ot_losses": 1,
-      "losses": 0,
-      "score": "4:4",
-      "points": 3
-    },
-    {
-      "position": 8,
       "team": "Mountfield HK, a.s.",
       "games": 2,
       "wins": 1,
@@ -89,6 +78,17 @@
       "ot_losses": 0,
       "losses": 1,
       "score": "5:5",
+      "points": 3
+    },
+    {
+      "position": 8,
+      "team": "HC ŠKODA PLZEŇ",
+      "games": 3,
+      "wins": 0,
+      "ot_wins": 1,
+      "ot_losses": 1,
+      "losses": 1,
+      "score": "6:7",
       "points": 3
     },
     {
