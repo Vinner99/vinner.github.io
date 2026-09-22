@@ -1,7 +1,7 @@
 {
   "competition": "Tipsport extraliga",
   "source": "https://www.czehockey.cz/souteze-muzi/tipsport-extraliga",
-  "updated_at": "2026-09-22T17:44:55+02:00",
+  "updated_at": "2026-09-22T21:15:55+02:00",
   "teams": [
     {
       "position": 1,
@@ -39,12 +39,12 @@
     {
       "position": 4,
       "team": "HC DYNAMO PARDUBICE",
-      "games": 3,
+      "games": 4,
       "wins": 2,
       "ot_wins": 0,
       "ot_losses": 0,
-      "losses": 1,
-      "score": "11:8",
+      "losses": 2,
+      "score": "15:13",
       "points": 6
     },
     {
@@ -71,6 +71,17 @@
     },
     {
       "position": 7,
+      "team": "Bílí Tygři Liberec",
+      "games": 3,
+      "wins": 1,
+      "ot_wins": 0,
+      "ot_losses": 1,
+      "losses": 1,
+      "score": "7:9",
+      "points": 4
+    },
+    {
+      "position": 8,
       "team": "HC KOMETA BRNO",
       "games": 3,
       "wins": 1,
@@ -81,7 +92,7 @@
       "points": 3
     },
     {
-      "position": 8,
+      "position": 9,
       "team": "HC ŠKODA PLZEŇ",
       "games": 3,
       "wins": 0,
@@ -92,7 +103,7 @@
       "points": 3
     },
     {
-      "position": 9,
+      "position": 10,
       "team": "HC Energie Karlovy Vary",
       "games": 3,
       "wins": 1,
@@ -103,7 +114,7 @@
       "points": 3
     },
     {
-      "position": 10,
+      "position": 11,
       "team": "Mountfield HK, a.s.",
       "games": 3,
       "wins": 1,
@@ -114,7 +125,7 @@
       "points": 3
     },
     {
-      "position": 11,
+      "position": 12,
       "team": "BK Mladá Boleslav",
       "games": 2,
       "wins": 0,
@@ -125,7 +136,7 @@
       "points": 2
     },
     {
-      "position": 12,
+      "position": 13,
       "team": "HC Olomouc",
       "games": 3,
       "wins": 0,
@@ -134,17 +145,6 @@
       "losses": 2,
       "score": "7:10",
       "points": 2
-    },
-    {
-      "position": 13,
-      "team": "Bílí Tygři Liberec",
-      "games": 2,
-      "wins": 0,
-      "ot_wins": 0,
-      "ot_losses": 1,
-      "losses": 1,
-      "score": "2:5",
-      "points": 1
     },
     {
       "position": 14,
