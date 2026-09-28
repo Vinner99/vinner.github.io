@@ -1,7 +1,7 @@
 {
   "competition": "Tipsport extraliga",
   "source": "https://www.czehockey.cz/souteze-muzi/tipsport-extraliga",
-  "updated_at": "2026-09-28T16:58:13+02:00",
+  "updated_at": "2026-09-28T23:10:37+02:00",
   "teams": [
     {
       "position": 1,
@@ -38,6 +38,17 @@
     },
     {
       "position": 4,
+      "team": "HC Energie Karlovy Vary",
+      "games": 5,
+      "wins": 3,
+      "ot_wins": 0,
+      "ot_losses": 0,
+      "losses": 2,
+      "score": "12:9",
+      "points": 9
+    },
+    {
+      "position": 5,
       "team": "Rytíři Kladno",
       "games": 5,
       "wins": 2,
@@ -48,7 +59,7 @@
       "points": 9
     },
     {
-      "position": 5,
+      "position": 6,
       "team": "HC ŠKODA PLZEŇ",
       "games": 5,
       "wins": 1,
@@ -59,26 +70,15 @@
       "points": 8
     },
     {
-      "position": 6,
+      "position": 7,
       "team": "HC Sparta Praha",
-      "games": 4,
+      "games": 5,
       "wins": 2,
       "ot_wins": 0,
       "ot_losses": 1,
-      "losses": 1,
-      "score": "14:11",
-      "points": 7
-    },
-    {
-      "position": 7,
-      "team": "HC Energie Karlovy Vary",
-      "games": 4,
-      "wins": 2,
-      "ot_wins": 0,
-      "ot_losses": 0,
       "losses": 2,
-      "score": "11:9",
-      "points": 6
+      "score": "14:12",
+      "points": 7
     },
     {
       "position": 8,
