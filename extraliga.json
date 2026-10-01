@@ -1,7 +1,7 @@
 {
   "competition": "Tipsport extraliga",
   "source": "https://www.czehockey.cz/souteze-muzi/tipsport-extraliga",
-  "updated_at": "2026-10-01T18:37:59+02:00",
+  "updated_at": "2026-10-01T23:22:39+02:00",
   "teams": [
     {
       "position": 1,
@@ -38,17 +38,28 @@
     },
     {
       "position": 4,
-      "team": "BANES Motor České Budějovice",
-      "games": 6,
+      "team": "HC Sparta Praha",
+      "games": 7,
       "wins": 3,
       "ot_wins": 0,
       "ot_losses": 1,
-      "losses": 2,
-      "score": "15:19",
+      "losses": 3,
+      "score": "21:18",
       "points": 10
     },
     {
       "position": 5,
+      "team": "BANES Motor České Budějovice",
+      "games": 7,
+      "wins": 3,
+      "ot_wins": 0,
+      "ot_losses": 1,
+      "losses": 3,
+      "score": "17:23",
+      "points": 10
+    },
+    {
+      "position": 6,
       "team": "HC Energie Karlovy Vary",
       "games": 5,
       "wins": 3,
@@ -59,7 +70,7 @@
       "points": 9
     },
     {
-      "position": 6,
+      "position": 7,
       "team": "Mountfield HK, a.s.",
       "games": 6,
       "wins": 3,
@@ -70,7 +81,7 @@
       "points": 9
     },
     {
-      "position": 7,
+      "position": 8,
       "team": "Rytíři Kladno",
       "games": 6,
       "wins": 2,
@@ -81,7 +92,7 @@
       "points": 9
     },
     {
-      "position": 8,
+      "position": 9,
       "team": "HC Litvínov",
       "games": 6,
       "wins": 2,
@@ -90,17 +101,6 @@
       "losses": 3,
       "score": "16:19",
       "points": 8
-    },
-    {
-      "position": 9,
-      "team": "HC Sparta Praha",
-      "games": 6,
-      "wins": 2,
-      "ot_wins": 0,
-      "ot_losses": 1,
-      "losses": 3,
-      "score": "17:16",
-      "points": 7
     },
     {
       "position": 10,
