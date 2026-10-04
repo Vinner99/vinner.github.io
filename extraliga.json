@@ -1,18 +1,18 @@
 {
   "competition": "Tipsport extraliga",
   "source": "https://www.czehockey.cz/souteze-muzi/tipsport-extraliga",
-  "updated_at": "2026-10-04T15:42:21+02:00",
+  "updated_at": "2026-10-04T19:51:37+02:00",
   "teams": [
     {
       "position": 1,
       "team": "HC Oceláři Třinec",
-      "games": 7,
-      "wins": 7,
+      "games": 8,
+      "wins": 8,
       "ot_wins": 0,
       "ot_losses": 0,
       "losses": 0,
-      "score": "31:16",
-      "points": 21
+      "score": "40:16",
+      "points": 24
     },
     {
       "position": 2,
@@ -28,27 +28,16 @@
     {
       "position": 3,
       "team": "HC Energie Karlovy Vary",
-      "games": 6,
-      "wins": 4,
+      "games": 7,
+      "wins": 5,
       "ot_wins": 0,
       "ot_losses": 0,
       "losses": 2,
-      "score": "15:9",
-      "points": 12
+      "score": "19:10",
+      "points": 15
     },
     {
       "position": 4,
-      "team": "HC ŠKODA PLZEŇ",
-      "games": 7,
-      "wins": 2,
-      "ot_wins": 2,
-      "ot_losses": 1,
-      "losses": 2,
-      "score": "18:16",
-      "points": 11
-    },
-    {
-      "position": 5,
       "team": "Mountfield HK, a.s.",
       "games": 7,
       "wins": 3,
@@ -59,7 +48,29 @@
       "points": 11
     },
     {
+      "position": 5,
+      "team": "HC ŠKODA PLZEŇ",
+      "games": 8,
+      "wins": 2,
+      "ot_wins": 2,
+      "ot_losses": 1,
+      "losses": 3,
+      "score": "19:20",
+      "points": 11
+    },
+    {
       "position": 6,
+      "team": "Bílí Tygři Liberec",
+      "games": 8,
+      "wins": 3,
+      "ot_wins": 0,
+      "ot_losses": 2,
+      "losses": 3,
+      "score": "21:25",
+      "points": 11
+    },
+    {
+      "position": 7,
       "team": "HC Sparta Praha",
       "games": 7,
       "wins": 3,
@@ -70,7 +81,7 @@
       "points": 10
     },
     {
-      "position": 7,
+      "position": 8,
       "team": "Rytíři Kladno",
       "games": 7,
       "wins": 2,
@@ -81,7 +92,7 @@
       "points": 10
     },
     {
-      "position": 8,
+      "position": 9,
       "team": "BANES Motor České Budějovice",
       "games": 7,
       "wins": 3,
@@ -92,7 +103,7 @@
       "points": 10
     },
     {
-      "position": 9,
+      "position": 10,
       "team": "HC KOMETA BRNO",
       "games": 6,
       "wins": 2,
@@ -103,7 +114,7 @@
       "points": 8
     },
     {
-      "position": 10,
+      "position": 11,
       "team": "HC Litvínov",
       "games": 7,
       "wins": 2,
@@ -111,17 +122,6 @@
       "ot_losses": 0,
       "losses": 4,
       "score": "18:22",
-      "points": 8
-    },
-    {
-      "position": 11,
-      "team": "Bílí Tygři Liberec",
-      "games": 7,
-      "wins": 2,
-      "ot_wins": 0,
-      "ot_losses": 2,
-      "losses": 3,
-      "score": "16:22",
       "points": 8
     },
     {
@@ -138,23 +138,23 @@
     {
       "position": 13,
       "team": "BK Mladá Boleslav",
-      "games": 7,
+      "games": 8,
       "wins": 1,
       "ot_wins": 1,
       "ot_losses": 1,
-      "losses": 4,
-      "score": "15:26",
+      "losses": 5,
+      "score": "18:31",
       "points": 6
     },
     {
       "position": 14,
       "team": "HC Olomouc",
-      "games": 7,
+      "games": 8,
       "wins": 1,
       "ot_wins": 1,
       "ot_losses": 0,
-      "losses": 5,
-      "score": "16:21",
+      "losses": 6,
+      "score": "16:30",
       "points": 5
     }
   ]
