@@ -1,7 +1,7 @@
 {
   "competition": "Tipsport extraliga",
   "source": "https://www.czehockey.cz/souteze-muzi/tipsport-extraliga",
-  "updated_at": "2026-10-05T13:34:17+02:00",
+  "updated_at": "2026-10-05T21:45:01+02:00",
   "teams": [
     {
       "position": 1,
@@ -49,6 +49,17 @@
     },
     {
       "position": 5,
+      "team": "BANES Motor České Budějovice",
+      "games": 8,
+      "wins": 4,
+      "ot_wins": 0,
+      "ot_losses": 1,
+      "losses": 3,
+      "score": "22:24",
+      "points": 13
+    },
+    {
+      "position": 6,
       "team": "Rytíři Kladno",
       "games": 8,
       "wins": 2,
@@ -59,7 +70,7 @@
       "points": 12
     },
     {
-      "position": 6,
+      "position": 7,
       "team": "HC ŠKODA PLZEŇ",
       "games": 8,
       "wins": 2,
@@ -70,7 +81,7 @@
       "points": 11
     },
     {
-      "position": 7,
+      "position": 8,
       "team": "Bílí Tygři Liberec",
       "games": 8,
       "wins": 3,
@@ -81,7 +92,7 @@
       "points": 11
     },
     {
-      "position": 8,
+      "position": 9,
       "team": "HC Sparta Praha",
       "games": 8,
       "wins": 3,
@@ -89,17 +100,6 @@
       "ot_losses": 1,
       "losses": 4,
       "score": "25:24",
-      "points": 10
-    },
-    {
-      "position": 9,
-      "team": "BANES Motor České Budějovice",
-      "games": 7,
-      "wins": 3,
-      "ot_wins": 0,
-      "ot_losses": 1,
-      "losses": 3,
-      "score": "17:23",
       "points": 10
     },
     {
@@ -116,12 +116,12 @@
     {
       "position": 11,
       "team": "HC KOMETA BRNO",
-      "games": 6,
+      "games": 7,
       "wins": 2,
       "ot_wins": 1,
       "ot_losses": 0,
-      "losses": 3,
-      "score": "19:18",
+      "losses": 4,
+      "score": "20:23",
       "points": 8
     },
     {
