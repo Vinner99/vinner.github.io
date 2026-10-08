@@ -1,7 +1,7 @@
 {
   "competition": "Tipsport extraliga",
   "source": "https://www.czehockey.cz/souteze-muzi/tipsport-extraliga",
-  "updated_at": "2026-10-08T17:31:01+02:00",
+  "updated_at": "2026-10-08T22:49:35+02:00",
   "teams": [
     {
       "position": 1,
@@ -38,6 +38,17 @@
     },
     {
       "position": 4,
+      "team": "HC ŠKODA PLZEŇ",
+      "games": 9,
+      "wins": 3,
+      "ot_wins": 2,
+      "ot_losses": 1,
+      "losses": 3,
+      "score": "23:21",
+      "points": 14
+    },
+    {
+      "position": 5,
       "team": "Mountfield HK, a.s.",
       "games": 8,
       "wins": 3,
@@ -48,18 +59,18 @@
       "points": 13
     },
     {
-      "position": 5,
+      "position": 6,
       "team": "BANES Motor České Budějovice",
-      "games": 8,
+      "games": 9,
       "wins": 4,
       "ot_wins": 0,
       "ot_losses": 1,
-      "losses": 3,
-      "score": "22:24",
+      "losses": 4,
+      "score": "23:28",
       "points": 13
     },
     {
-      "position": 6,
+      "position": 7,
       "team": "Rytíři Kladno",
       "games": 8,
       "wins": 2,
@@ -70,18 +81,18 @@
       "points": 12
     },
     {
-      "position": 7,
-      "team": "HC ŠKODA PLZEŇ",
-      "games": 8,
-      "wins": 2,
-      "ot_wins": 2,
-      "ot_losses": 1,
-      "losses": 3,
-      "score": "19:20",
+      "position": 8,
+      "team": "HC Sparta Praha",
+      "games": 9,
+      "wins": 3,
+      "ot_wins": 0,
+      "ot_losses": 2,
+      "losses": 4,
+      "score": "28:28",
       "points": 11
     },
     {
-      "position": 8,
+      "position": 9,
       "team": "Bílí Tygři Liberec",
       "games": 8,
       "wins": 3,
@@ -92,18 +103,18 @@
       "points": 11
     },
     {
-      "position": 9,
-      "team": "HC Sparta Praha",
+      "position": 10,
+      "team": "HC KOMETA BRNO",
       "games": 8,
-      "wins": 3,
-      "ot_wins": 0,
-      "ot_losses": 1,
+      "wins": 2,
+      "ot_wins": 2,
+      "ot_losses": 0,
       "losses": 4,
-      "score": "25:24",
+      "score": "24:26",
       "points": 10
     },
     {
-      "position": 10,
+      "position": 11,
       "team": "HC Litvínov",
       "games": 8,
       "wins": 2,
@@ -112,17 +123,6 @@
       "losses": 4,
       "score": "20:25",
       "points": 9
-    },
-    {
-      "position": 11,
-      "team": "HC KOMETA BRNO",
-      "games": 7,
-      "wins": 2,
-      "ot_wins": 1,
-      "ot_losses": 0,
-      "losses": 4,
-      "score": "20:23",
-      "points": 8
     },
     {
       "position": 12,
