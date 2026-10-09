@@ -1,43 +1,54 @@
 {
   "competition": "Tipsport extraliga",
   "source": "https://www.czehockey.cz/souteze-muzi/tipsport-extraliga",
-  "updated_at": "2026-10-09T16:30:02+02:00",
+  "updated_at": "2026-10-09T21:40:49+02:00",
   "teams": [
     {
       "position": 1,
       "team": "HC Oceláři Třinec",
-      "games": 8,
-      "wins": 8,
+      "games": 9,
+      "wins": 9,
       "ot_wins": 0,
       "ot_losses": 0,
       "losses": 0,
-      "score": "40:16",
-      "points": 24
+      "score": "45:18",
+      "points": 27
     },
     {
       "position": 2,
       "team": "HC DYNAMO PARDUBICE",
-      "games": 9,
-      "wins": 7,
+      "games": 10,
+      "wins": 8,
       "ot_wins": 0,
       "ot_losses": 0,
       "losses": 2,
-      "score": "39:25",
-      "points": 21
+      "score": "42:27",
+      "points": 24
     },
     {
       "position": 3,
       "team": "HC Energie Karlovy Vary",
-      "games": 7,
+      "games": 8,
       "wins": 5,
       "ot_wins": 0,
       "ot_losses": 0,
-      "losses": 2,
-      "score": "19:10",
+      "losses": 3,
+      "score": "19:15",
       "points": 15
     },
     {
       "position": 4,
+      "team": "Rytíři Kladno",
+      "games": 9,
+      "wins": 3,
+      "ot_wins": 2,
+      "ot_losses": 2,
+      "losses": 2,
+      "score": "28:29",
+      "points": 15
+    },
+    {
+      "position": 5,
       "team": "HC ŠKODA PLZEŇ",
       "games": 9,
       "wins": 3,
@@ -48,18 +59,29 @@
       "points": 14
     },
     {
-      "position": 5,
+      "position": 6,
+      "team": "Bílí Tygři Liberec",
+      "games": 9,
+      "wins": 4,
+      "ot_wins": 0,
+      "ot_losses": 2,
+      "losses": 3,
+      "score": "26:25",
+      "points": 14
+    },
+    {
+      "position": 7,
       "team": "Mountfield HK, a.s.",
-      "games": 8,
+      "games": 9,
       "wins": 3,
       "ot_wins": 2,
       "ot_losses": 0,
-      "losses": 3,
-      "score": "23:20",
+      "losses": 4,
+      "score": "25:25",
       "points": 13
     },
     {
-      "position": 6,
+      "position": 8,
       "team": "BANES Motor České Budějovice",
       "games": 9,
       "wins": 4,
@@ -70,18 +92,18 @@
       "points": 13
     },
     {
-      "position": 7,
-      "team": "Rytíři Kladno",
-      "games": 8,
-      "wins": 2,
-      "ot_wins": 2,
-      "ot_losses": 2,
-      "losses": 2,
-      "score": "24:26",
+      "position": 9,
+      "team": "HC Litvínov",
+      "games": 9,
+      "wins": 3,
+      "ot_wins": 1,
+      "ot_losses": 1,
+      "losses": 4,
+      "score": "23:26",
       "points": 12
     },
     {
-      "position": 8,
+      "position": 10,
       "team": "HC Sparta Praha",
       "games": 9,
       "wins": 3,
@@ -92,18 +114,7 @@
       "points": 11
     },
     {
-      "position": 9,
-      "team": "Bílí Tygři Liberec",
-      "games": 8,
-      "wins": 3,
-      "ot_wins": 0,
-      "ot_losses": 2,
-      "losses": 3,
-      "score": "21:25",
-      "points": 11
-    },
-    {
-      "position": 10,
+      "position": 11,
       "team": "HC KOMETA BRNO",
       "games": 8,
       "wins": 2,
@@ -114,47 +125,36 @@
       "points": 10
     },
     {
-      "position": 11,
-      "team": "HC Litvínov",
-      "games": 8,
-      "wins": 2,
-      "ot_wins": 1,
-      "ot_losses": 1,
-      "losses": 4,
-      "score": "20:25",
-      "points": 9
-    },
-    {
       "position": 12,
       "team": "HC VÍTKOVICE RIDERA",
-      "games": 7,
+      "games": 8,
       "wins": 2,
       "ot_wins": 0,
       "ot_losses": 1,
-      "losses": 4,
-      "score": "19:26",
+      "losses": 5,
+      "score": "21:29",
       "points": 7
     },
     {
       "position": 13,
       "team": "BK Mladá Boleslav",
-      "games": 8,
+      "games": 9,
       "wins": 1,
       "ot_wins": 1,
       "ot_losses": 1,
-      "losses": 5,
-      "score": "18:31",
+      "losses": 6,
+      "score": "21:35",
       "points": 6
     },
     {
       "position": 14,
       "team": "HC Olomouc",
-      "games": 8,
+      "games": 9,
       "wins": 1,
       "ot_wins": 1,
       "ot_losses": 0,
-      "losses": 6,
-      "score": "16:30",
+      "losses": 7,
+      "score": "17:33",
       "points": 5
     }
   ]
