@@ -1,29 +1,29 @@
 {
   "competition": "Tipsport extraliga",
   "source": "https://www.czehockey.cz/souteze-muzi/tipsport-extraliga",
-  "updated_at": "2026-10-11T21:11:35+02:00",
+  "updated_at": "2026-10-12T00:55:52+02:00",
   "teams": [
     {
       "position": 1,
       "team": "HC Oceláři Třinec",
-      "games": 9,
+      "games": 10,
       "wins": 9,
       "ot_wins": 0,
-      "ot_losses": 0,
+      "ot_losses": 1,
       "losses": 0,
-      "score": "45:18",
-      "points": 27
+      "score": "49:23",
+      "points": 28
     },
     {
       "position": 2,
       "team": "HC DYNAMO PARDUBICE",
-      "games": 10,
+      "games": 11,
       "wins": 8,
-      "ot_wins": 0,
+      "ot_wins": 1,
       "ot_losses": 0,
       "losses": 2,
-      "score": "42:27",
-      "points": 24
+      "score": "47:31",
+      "points": 26
     },
     {
       "position": 3,
