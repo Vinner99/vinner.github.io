@@ -1,7 +1,7 @@
 {
   "competition": "Tipsport extraliga",
   "source": "https://www.czehockey.cz/souteze-muzi/tipsport-extraliga",
-  "updated_at": "2026-10-22T17:53:40+02:00",
+  "updated_at": "2026-10-22T21:45:18+02:00",
   "teams": [
     {
       "position": 1,
@@ -127,12 +127,12 @@
     {
       "position": 12,
       "team": "BK Mladá Boleslav",
-      "games": 12,
+      "games": 13,
       "wins": 3,
       "ot_wins": 1,
       "ot_losses": 1,
-      "losses": 7,
-      "score": "27:42",
+      "losses": 8,
+      "score": "29:46",
       "points": 12
     },
     {
@@ -149,13 +149,13 @@
     {
       "position": 14,
       "team": "HC Olomouc",
-      "games": 12,
-      "wins": 1,
+      "games": 13,
+      "wins": 2,
       "ot_wins": 1,
       "ot_losses": 0,
       "losses": 10,
-      "score": "19:45",
-      "points": 5
+      "score": "23:47",
+      "points": 8
     }
   ]
 }
