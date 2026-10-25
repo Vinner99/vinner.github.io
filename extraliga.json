@@ -1,18 +1,18 @@
 {
   "competition": "Tipsport extraliga",
   "source": "https://www.czehockey.cz/souteze-muzi/tipsport-extraliga",
-  "updated_at": "2026-10-25T10:48:53+01:00",
+  "updated_at": "2026-10-25T15:06:58+01:00",
   "teams": [
     {
       "position": 1,
       "team": "HC Oceláři Třinec",
-      "games": 13,
-      "wins": 11,
+      "games": 14,
+      "wins": 12,
       "ot_wins": 0,
       "ot_losses": 1,
       "losses": 1,
-      "score": "56:30",
-      "points": 34
+      "score": "58:31",
+      "points": 37
     },
     {
       "position": 2,
@@ -28,12 +28,12 @@
     {
       "position": 3,
       "team": "HC Energie Karlovy Vary",
-      "games": 13,
+      "games": 14,
       "wins": 7,
       "ot_wins": 2,
       "ot_losses": 0,
-      "losses": 4,
-      "score": "34:23",
+      "losses": 5,
+      "score": "35:25",
       "points": 25
     },
     {
