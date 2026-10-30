@@ -1,7 +1,7 @@
 {
   "competition": "Tipsport extraliga",
   "source": "https://www.czehockey.cz/souteze-muzi/tipsport-extraliga",
-  "updated_at": "2026-10-30T20:36:07+01:00",
+  "updated_at": "2026-10-31T00:15:14+01:00",
   "teams": [
     {
       "position": 1,
@@ -17,13 +17,13 @@
     {
       "position": 2,
       "team": "HC DYNAMO PARDUBICE",
-      "games": 15,
-      "wins": 9,
+      "games": 16,
+      "wins": 10,
       "ot_wins": 1,
       "ot_losses": 1,
       "losses": 4,
-      "score": "56:41",
-      "points": 30
+      "score": "60:43",
+      "points": 33
     },
     {
       "position": 3,
@@ -50,12 +50,12 @@
     {
       "position": 5,
       "team": "HC Energie Karlovy Vary",
-      "games": 15,
+      "games": 16,
       "wins": 7,
       "ot_wins": 2,
       "ot_losses": 0,
-      "losses": 6,
-      "score": "36:27",
+      "losses": 7,
+      "score": "38:31",
       "points": 25
     },
     {
