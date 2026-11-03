@@ -1,7 +1,7 @@
 {
   "competition": "Tipsport extraliga",
   "source": "https://www.czehockey.cz/souteze-muzi/tipsport-extraliga",
-  "updated_at": "2026-11-03T10:51:05+01:00",
+  "updated_at": "2026-11-03T18:33:23+01:00",
   "teams": [
     {
       "position": 1,
@@ -38,6 +38,17 @@
     },
     {
       "position": 4,
+      "team": "BYD Energie Karlovy Vary",
+      "games": 17,
+      "wins": 8,
+      "ot_wins": 2,
+      "ot_losses": 0,
+      "losses": 7,
+      "score": "41:33",
+      "points": 28
+    },
+    {
+      "position": 5,
       "team": "BANES Motor České Budějovice",
       "games": 17,
       "wins": 8,
@@ -48,7 +59,7 @@
       "points": 26
     },
     {
-      "position": 5,
+      "position": 6,
       "team": "HC Sparta Praha",
       "games": 17,
       "wins": 7,
@@ -59,7 +70,7 @@
       "points": 25
     },
     {
-      "position": 6,
+      "position": 7,
       "team": "HC ŠKODA PLZEŇ",
       "games": 17,
       "wins": 4,
@@ -70,7 +81,7 @@
       "points": 25
     },
     {
-      "position": 7,
+      "position": 8,
       "team": "Bílí Tygři Liberec",
       "games": 16,
       "wins": 6,
@@ -81,7 +92,7 @@
       "points": 24
     },
     {
-      "position": 8,
+      "position": 9,
       "team": "Mountfield HK, a.s.",
       "games": 16,
       "wins": 6,
@@ -92,7 +103,7 @@
       "points": 24
     },
     {
-      "position": 9,
+      "position": 10,
       "team": "HC KOMETA BRNO",
       "games": 16,
       "wins": 5,
@@ -103,7 +114,7 @@
       "points": 24
     },
     {
-      "position": 10,
+      "position": 11,
       "team": "HC Litvínov",
       "games": 17,
       "wins": 6,
@@ -114,7 +125,7 @@
       "points": 21
     },
     {
-      "position": 11,
+      "position": 12,
       "team": "BK Mladá Boleslav",
       "games": 17,
       "wins": 4,
@@ -125,7 +136,7 @@
       "points": 17
     },
     {
-      "position": 12,
+      "position": 13,
       "team": "HC VÍTKOVICE RIDERA",
       "games": 16,
       "wins": 4,
@@ -136,7 +147,7 @@
       "points": 16
     },
     {
-      "position": 13,
+      "position": 14,
       "team": "HC Olomouc",
       "games": 17,
       "wins": 3,
