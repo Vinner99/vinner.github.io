@@ -1,18 +1,18 @@
 {
   "competition": "Tipsport extraliga",
   "source": "https://www.czehockey.cz/souteze-muzi/tipsport-extraliga",
-  "updated_at": "2026-11-18T18:03:57+01:00",
+  "updated_at": "2026-11-19T00:23:30+01:00",
   "teams": [
     {
       "position": 1,
       "team": "HC Oceláři Třinec",
-      "games": 19,
-      "wins": 15,
+      "games": 20,
+      "wins": 16,
       "ot_wins": 1,
       "ot_losses": 1,
       "losses": 2,
-      "score": "76:42",
-      "points": 48
+      "score": "81:45",
+      "points": 51
     },
     {
       "position": 2,
@@ -49,6 +49,17 @@
     },
     {
       "position": 5,
+      "team": "HC ŠKODA PLZEŇ",
+      "games": 19,
+      "wins": 5,
+      "ot_wins": 7,
+      "ot_losses": 1,
+      "losses": 6,
+      "score": "49:45",
+      "points": 30
+    },
+    {
+      "position": 6,
       "team": "BYD Energie Karlovy Vary",
       "games": 18,
       "wins": 8,
@@ -59,7 +70,7 @@
       "points": 28
     },
     {
-      "position": 6,
+      "position": 7,
       "team": "HC Sparta Praha",
       "games": 19,
       "wins": 8,
@@ -67,17 +78,6 @@
       "ot_losses": 2,
       "losses": 8,
       "score": "49:44",
-      "points": 28
-    },
-    {
-      "position": 7,
-      "team": "HC ŠKODA PLZEŇ",
-      "games": 18,
-      "wins": 5,
-      "ot_wins": 6,
-      "ot_losses": 1,
-      "losses": 6,
-      "score": "46:43",
       "points": 28
     },
     {
@@ -127,13 +127,13 @@
     {
       "position": 12,
       "team": "BK Mladá Boleslav",
-      "games": 18,
+      "games": 19,
       "wins": 5,
       "ot_wins": 2,
-      "ot_losses": 1,
+      "ot_losses": 2,
       "losses": 10,
-      "score": "38:58",
-      "points": 20
+      "score": "40:61",
+      "points": 21
     },
     {
       "position": 13,
@@ -149,12 +149,12 @@
     {
       "position": 14,
       "team": "HC Olomouc",
-      "games": 19,
+      "games": 20,
       "wins": 3,
       "ot_wins": 1,
       "ot_losses": 4,
-      "losses": 11,
-      "score": "35:60",
+      "losses": 12,
+      "score": "38:65",
       "points": 15
     }
   ]
