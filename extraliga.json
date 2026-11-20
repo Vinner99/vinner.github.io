@@ -1,7 +1,7 @@
 {
   "competition": "Tipsport extraliga",
   "source": "https://www.czehockey.cz/souteze-muzi/tipsport-extraliga",
-  "updated_at": "2026-11-20T11:56:21+01:00",
+  "updated_at": "2026-11-20T19:59:17+01:00",
   "teams": [
     {
       "position": 1,
@@ -49,6 +49,17 @@
     },
     {
       "position": 5,
+      "team": "BYD Energie Karlovy Vary",
+      "games": 19,
+      "wins": 9,
+      "ot_wins": 2,
+      "ot_losses": 0,
+      "losses": 8,
+      "score": "45:38",
+      "points": 31
+    },
+    {
+      "position": 6,
       "team": "HC Sparta Praha",
       "games": 20,
       "wins": 9,
@@ -59,7 +70,7 @@
       "points": 31
     },
     {
-      "position": 6,
+      "position": 7,
       "team": "Mountfield HK, a.s.",
       "games": 19,
       "wins": 8,
@@ -70,7 +81,7 @@
       "points": 30
     },
     {
-      "position": 7,
+      "position": 8,
       "team": "HC ŠKODA PLZEŇ",
       "games": 19,
       "wins": 5,
@@ -79,17 +90,6 @@
       "losses": 6,
       "score": "49:45",
       "points": 30
-    },
-    {
-      "position": 8,
-      "team": "BYD Energie Karlovy Vary",
-      "games": 18,
-      "wins": 8,
-      "ot_wins": 2,
-      "ot_losses": 0,
-      "losses": 8,
-      "score": "42:36",
-      "points": 28
     },
     {
       "position": 9,
@@ -138,12 +138,12 @@
     {
       "position": 13,
       "team": "HC VÍTKOVICE RIDERA",
-      "games": 18,
+      "games": 19,
       "wins": 4,
       "ot_wins": 2,
       "ot_losses": 2,
-      "losses": 10,
-      "score": "41:56",
+      "losses": 11,
+      "score": "43:59",
       "points": 18
     },
     {
