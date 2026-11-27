@@ -1,51 +1,51 @@
 {
   "competition": "Tipsport extraliga",
   "source": "https://www.czehockey.cz/souteze-muzi/tipsport-extraliga",
-  "updated_at": "2026-11-27T15:22:45+01:00",
+  "updated_at": "2026-11-27T23:50:57+01:00",
   "teams": [
     {
       "position": 1,
       "team": "HC Oceláři Třinec",
-      "games": 22,
+      "games": 23,
       "wins": 16,
       "ot_wins": 2,
       "ot_losses": 1,
-      "losses": 3,
-      "score": "87:53",
+      "losses": 4,
+      "score": "89:57",
       "points": 53
     },
     {
       "position": 2,
       "team": "HC DYNAMO PARDUBICE",
-      "games": 22,
-      "wins": 15,
+      "games": 23,
+      "wins": 16,
       "ot_wins": 1,
       "ot_losses": 1,
       "losses": 5,
-      "score": "86:52",
-      "points": 48
+      "score": "90:54",
+      "points": 51
     },
     {
       "position": 3,
       "team": "Rytíři Kladno",
-      "games": 22,
-      "wins": 9,
+      "games": 23,
+      "wins": 10,
       "ot_wins": 4,
       "ot_losses": 4,
       "losses": 5,
-      "score": "66:62",
-      "points": 39
+      "score": "69:63",
+      "points": 42
     },
     {
       "position": 4,
       "team": "HC ŠKODA PLZEŇ",
-      "games": 22,
-      "wins": 6,
+      "games": 23,
+      "wins": 7,
       "ot_wins": 8,
       "ot_losses": 1,
       "losses": 7,
-      "score": "57:52",
-      "points": 35
+      "score": "58:52",
+      "points": 38
     },
     {
       "position": 5,
@@ -60,6 +60,17 @@
     },
     {
       "position": 6,
+      "team": "Mountfield HK, a.s.",
+      "games": 23,
+      "wins": 9,
+      "ot_wins": 2,
+      "ot_losses": 3,
+      "losses": 9,
+      "score": "62:58",
+      "points": 34
+    },
+    {
+      "position": 7,
       "team": "Bílí Tygři Liberec",
       "games": 21,
       "wins": 9,
@@ -70,91 +81,80 @@
       "points": 33
     },
     {
-      "position": 7,
+      "position": 8,
       "team": "BYD Energie Karlovy Vary",
-      "games": 21,
+      "games": 22,
       "wins": 9,
       "ot_wins": 2,
       "ot_losses": 1,
-      "losses": 9,
-      "score": "48:45",
+      "losses": 10,
+      "score": "49:48",
       "points": 32
     },
     {
-      "position": 8,
+      "position": 9,
       "team": "HC Sparta Praha",
-      "games": 22,
+      "games": 23,
       "wins": 9,
       "ot_wins": 1,
       "ot_losses": 2,
-      "losses": 10,
-      "score": "56:54",
-      "points": 31
-    },
-    {
-      "position": 9,
-      "team": "Mountfield HK, a.s.",
-      "games": 22,
-      "wins": 8,
-      "ot_wins": 2,
-      "ot_losses": 3,
-      "losses": 9,
-      "score": "59:57",
+      "losses": 11,
+      "score": "57:56",
       "points": 31
     },
     {
       "position": 10,
       "team": "HC KOMETA BRNO",
-      "games": 21,
+      "games": 22,
       "wins": 7,
       "ot_wins": 3,
       "ot_losses": 3,
-      "losses": 8,
-      "score": "54:59",
+      "losses": 9,
+      "score": "54:60",
       "points": 30
     },
     {
       "position": 11,
       "team": "HC Litvínov",
-      "games": 22,
+      "games": 23,
       "wins": 7,
       "ot_wins": 3,
       "ot_losses": 1,
-      "losses": 11,
-      "score": "51:60",
+      "losses": 12,
+      "score": "51:65",
       "points": 28
     },
     {
       "position": 12,
       "team": "HC VÍTKOVICE RIDERA",
-      "games": 21,
-      "wins": 5,
+      "games": 22,
+      "wins": 6,
       "ot_wins": 2,
       "ot_losses": 2,
       "losses": 12,
-      "score": "48:68",
-      "points": 21
+      "score": "50:69",
+      "points": 24
     },
     {
       "position": 13,
       "team": "BK Mladá Boleslav",
-      "games": 22,
-      "wins": 5,
+      "games": 23,
+      "wins": 6,
       "ot_wins": 2,
       "ot_losses": 2,
       "losses": 13,
-      "score": "44:73",
-      "points": 21
+      "score": "49:73",
+      "points": 24
     },
     {
       "position": 14,
       "team": "HC Olomouc",
-      "games": 22,
+      "games": 23,
       "wins": 4,
       "ot_wins": 1,
       "ot_losses": 5,
-      "losses": 12,
-      "score": "44:70",
+      "losses": 13,
+      "score": "45:73",
       "points": 19
     }
   ]
